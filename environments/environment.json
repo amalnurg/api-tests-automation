@@ -1,0 +1,17 @@
+{
+  "id": "amal-environment",
+  "name": "Amal_Mail_Project", 
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://petstore.swagger.io/v2",
+      "type": "default"
+    },
+    {
+      "key": "username_to_delete", 
+      "value": "lama",
+      "type": "default"
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
